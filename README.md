@@ -18,6 +18,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+#
 <details>
  <summary><h3>👨‍My coding journey</h3></summary>
    I started my coding journey as a naive videogame designer student with a passion to learn. I built my projects in Unreal Engine and Unity so I studied C++ and important 3D programs like Substance painter, blender, Zbrush and 3dsMAX. However, I had another desire I had been pursuing throughout this time: music production. I invested 2 years in studying the market and creating LPs with other spanish artists. But I have always liked to think about my career in the long run, I was not earning enough from it, and I decided to go back to coding. This time as a full stack developer, as that was another interest I discovered when I was studying C++. I decided on this path since the beginning of 2023 and that has been my focus ever since. Don't wait, because I'm coming. 
