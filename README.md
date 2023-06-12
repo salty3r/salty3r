@@ -20,7 +20,7 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Salty3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=salty3r_icons=true&theme=gruvbox)
 
 #
 <details>
